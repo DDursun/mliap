@@ -1,0 +1,4 @@
+*.hdf
+*.h5
+*.npy
+interatomicML/

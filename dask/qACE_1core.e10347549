@@ -1,0 +1,23 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) xalt/2.10.45
+/home/x-ddashdamirov/miniconda3/envs/fitsnap/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/home/x-ddashdamirov/QuadraticMLIP/examples/fitsnap_qACE/quadraticACE.py", line 30, in <module>
+    qace.calculate_descriptors()
+  File "/home/x-ddashdamirov/QuadraticMLIP/qmlip/descriptors/fitsnap.py", line 157, in calculate_descriptors
+    del temp_tensor, natoms, descriptors, dgrad, dgrad_indices, dB, B, aw_temp
+UnboundLocalError: local variable 'recv_buffer' referenced before assignment
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[38229,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------

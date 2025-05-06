@@ -1,0 +1,21 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) xalt/2.10.45
+Total Memory: 270.02 GB
+Available Memory: 254.76 GB
+Loading data...
+aw shape: (3002511, 1224)
+bw shape: (3002511,)
+Computing SVD on training data...
+Regression was solved in 71.251 sec.
+Computing predictions on test data...
+Global Test RMSE: 0.16430115035327672
+Energy Training RMSE: 0.00499379185332178
+Force Training RMSE:  0.10747689181156685
+Energy Testing RMSE:  0.007094529448986171
+Force Testing RMSE:   0.14025439395644698
+Energy Training MAE: 0.003894618978873891
+Force Training MAE:  0.08360345264348933
+Energy Testing MAE:  0.005022195428543692
+Force Testing MAE:   0.0855300381903428

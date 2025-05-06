@@ -1,0 +1,18 @@
+Total Memory: 270.02 GB
+Available Memory: 250.87 GB
+Loading data...
+aw shape: (3002511, 1224)
+Applying PCA on training data...
+PCA completed in 1296.503 sec.
+Computing SVD on training data...
+Regression was solved in 270.542 sec.
+Computing predictions on test data...
+Global Test RMSE: 3.238894484654569
+Energy Training RMSE: 0.02242487458927943
+Force Training RMSE:  3.2379570326742217
+Energy Testing RMSE:  0.022529692950576177
+Force Testing RMSE:   3.2379429652210083
+Energy Training MAE: 0.021588977394423284
+Force Training MAE:  3.2360790008973765
+Energy Testing MAE:  0.02163410574031422
+Force Testing MAE:   3.236073376356275

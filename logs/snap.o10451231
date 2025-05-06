@@ -1,0 +1,186 @@
+----- Global weights set: Overriding group weights.
+df_structures:  20000
+df_structures:  20000
+df_structures:  20000
+df_structures:  20000
+df_structures:  20000
+df_energies:  19980
+Files are loadedd in  6.122382164001465 sec
+Rank 2 - after file load - Process RSS: 1571.40 MB | System available: 226437.63 MB
+Rank 2 is processing indexes from 4996 to 7494 
+Scraping process starts!
+df_structures:  20000
+df_structures:  20000
+df_energies:  19980
+Files are loadedd in  6.185166835784912 sec
+Rank 0 - after file load - Process RSS: 2797.00 MB | System available: 227793.62 MB
+Rank 0 is processing indexes from 0 to 2498 
+Scraping process starts!
+df_structures:  20000
+df_energies:  19980
+Files are loadedd in  6.226939678192139 sec
+Rank 6 - after file load - Process RSS: 1573.32 MB | System available: 227681.27 MB
+Rank 6 is processing indexes from 14986 to 17483 
+Scraping process starts!
+df_energies:  19980
+Files are loadedd in  6.251924753189087 sec
+Rank 3 - after file load - Process RSS: 1570.41 MB | System available: 227635.36 MB
+Rank 3 is processing indexes from 7494 to 9992 
+Scraping process starts!
+Scraping finished in 0.17094111442565918 sec
+Rank 2 After scraping - Process RSS: 1572.39 MB | System available: 227562.89 MB
+length  2498
+df_energies:  19980
+Files are loadedd in  6.312565565109253 sec
+Rank 4 - after file load - Process RSS: 1573.52 MB | System available: 227624.52 MB
+Rank 4 is processing indexes from 9992 to 12489 
+Scraping process starts!
+df_energies:  19980
+Scraping finished in 0.1542811393737793 sec
+Rank 0 After scraping - Process RSS: 2797.96 MB | System available: 227680.33 MB
+length  2498
+Files are loadedd in  6.346936225891113 sec
+Rank 7 - after file load - Process RSS: 1571.70 MB | System available: 227673.44 MB
+Rank 7 is processing indexes from 17483 to 19980 
+Scraping process starts!
+df_energies:  19980
+Files are loadedd in  6.36896538734436 sec
+Rank 5 - after file load - Process RSS: 1574.99 MB | System available: 227748.99 MB
+Rank 5 is processing indexes from 12489 to 14986 
+Scraping process starts!
+Scraping finished in 0.16119146347045898 sec
+Rank 6 After scraping - Process RSS: 1576.06 MB | System available: 227737.80 MB
+length  2497
+df_energies:  19980
+Files are loadedd in  6.408435106277466 sec
+Rank 1 - after file load - Process RSS: 1572.84 MB | System available: 227829.93 MB
+Scraping finished in 0.15634846687316895 sec
+Rank 1 is processing indexes from 2498 to 4996 
+Scraping process starts!
+Rank 3 After scraping - Process RSS: 1571.36 MB | System available: 227829.93 MB
+length  2498
+Scraping finished in 0.15888094902038574 sec
+Rank 4 After scraping - Process RSS: 1574.21 MB | System available: 227829.93 MB
+length  2497
+Scraping finished in 0.15102744102478027 sec
+Rank 7 After scraping - Process RSS: 1574.54 MB | System available: 227829.93 MB
+length  2497
+Scraping finished in 0.15123891830444336 sec
+Rank 5 After scraping - Process RSS: 1577.61 MB | System available: 227829.93 MB
+length  2497
+Scraping finished in 0.14803075790405273 sec
+Rank 1 After scraping - Process RSS: 1573.86 MB | System available: 227829.93 MB
+length  2498
+'process_configs' took 447137.82 ms on rank 0
+Training finished in 5.435943603515625e-05 sec
+Training finished in 5.555152893066406e-05 sec
+Training finished in 5.412101745605469e-05 sec
+Training finished in 5.364418029785156e-05 sec
+Training finished in 5.1975250244140625e-05 sec
+Training finished in 5.221366882324219e-05 sec
+Training finished in 5.340576171875e-05 sec
+Epoch   Train       Val     Time (s)
+0  5.299e+01  1.746e+00  7.201e+01
+1  1.233e+00  5.532e-01  7.142e+01
+2  5.422e-01  3.925e-01  7.265e+01
+3  3.751e-01  2.255e-01  7.276e+01
+4  3.088e-01  2.048e-01  7.235e+01
+5  2.901e-01  2.790e-01  7.169e+01
+6  2.738e-01  1.563e-01  7.072e+01
+7  2.324e-01  3.559e-01  7.243e+01
+8  2.249e-01  3.785e-01  7.232e+01
+9  2.584e-01  1.147e-01  7.073e+01
+10 2.163e-01  1.986e-01  6.252e+01
+11 2.035e-01  1.374e-01  6.275e+01
+12 2.117e-01  1.086e-01  6.286e+01
+13 2.209e-01  1.134e-01  6.249e+01
+14 1.727e-01  8.864e-02  6.244e+01
+15 1.883e-01  9.753e-02  6.292e+01
+16 1.512e-01  9.726e-02  6.312e+01
+17 1.768e-01  2.060e-01  6.282e+01
+18 1.801e-01  8.765e-02  6.232e+01
+19 1.436e-01  8.433e-02  7.187e+01
+20 1.551e-01  7.606e-02  7.195e+01
+21 1.372e-01  8.308e-02  7.243e+01
+22 1.547e-01  1.646e-01  7.213e+01
+23 1.625e-01  7.268e-02  7.202e+01
+24 1.587e-01  1.092e-01  7.189e+01
+25 1.271e-01  9.985e-02  7.162e+01
+26 1.278e-01  8.672e-02  7.051e+01
+27 1.233e-01  2.012e-01  7.328e+01
+28 1.567e-01  6.759e-02  7.131e+01
+29 1.290e-01  8.804e-02  7.285e+01
+30 1.384e-01  7.245e-02  7.258e+01
+31 1.238e-01  8.811e-02  7.331e+01
+32 1.153e-01  9.730e-02  7.207e+01
+33 1.298e-01  1.577e-01  7.208e+01
+34 1.222e-01  1.959e-01  7.097e+01
+35 1.309e-01  6.449e-02  7.330e+01
+36 1.202e-01  7.722e-02  7.001e+01
+37 1.111e-01  7.726e-02  7.016e+01
+38 1.112e-01  8.103e-02  7.027e+01
+39 1.069e-01  1.869e-01  7.140e+01
+40 1.206e-01  8.239e-02  7.102e+01
+41 1.162e-01  1.044e-01  7.020e+01
+42 9.669e-02  5.749e-02  7.049e+01
+43 1.175e-01  7.250e-02  7.266e+01
+44 1.047e-01  5.584e-02  7.274e+01
+45 1.009e-01  5.657e-02  7.026e+01
+46 1.157e-01  6.065e-02  7.209e+01
+47 1.091e-01  1.100e-01  7.181e+01
+48 1.075e-01  6.853e-02  7.086e+01
+49 1.064e-01  5.281e-02  7.072e+01
+50 1.016e-01  6.117e-02  7.070e+01
+51 1.051e-01  9.879e-02  7.170e+01
+52 9.725e-02  2.266e-01  7.188e+01
+53 1.029e-01  9.208e-02  7.181e+01
+54 9.062e-02  7.787e-02  7.258e+01
+55 8.963e-02  6.820e-02  7.090e+01
+56 1.054e-01  7.480e-02  5.746e+01
+57 9.121e-02  6.690e-02  7.151e+01
+58 9.129e-02  2.101e-01  7.192e+01
+59 1.150e-01  8.132e-02  6.990e+01
+60 8.068e-02  6.377e-02  6.994e+01
+61 1.024e-01  4.950e-02  7.122e+01
+62 1.033e-01  7.076e-02  7.262e+01
+63 1.042e-01  1.458e-01  7.049e+01
+64 8.728e-02  1.959e-01  7.133e+01
+65 9.040e-02  6.998e-02  7.115e+01
+66 1.067e-01  5.198e-02  7.197e+01
+67 9.709e-02  6.010e-02  7.233e+01
+68 8.218e-02  4.740e-02  7.164e+01
+69 1.124e-01  7.338e-02  7.159e+01
+70 9.176e-02  5.262e-02  7.093e+01
+71 9.212e-02  5.247e-02  7.217e+01
+72 8.914e-02  8.432e-02  7.128e+01
+73 9.414e-02  4.743e-02  7.091e+01
+74 8.225e-02  9.162e-02  7.058e+01
+75 7.855e-02  6.374e-02  7.220e+01
+76 9.639e-02  4.681e-02  7.126e+01
+77 9.636e-02  5.280e-02  7.000e+01
+78 9.275e-02  1.164e-01  7.190e+01
+79 7.869e-02  5.417e-02  7.058e+01
+80 7.556e-02  8.590e-02  7.196e+01
+81 9.137e-02  7.476e-02  7.106e+01
+82 9.394e-02  5.377e-02  7.061e+01
+83 8.349e-02  4.797e-02  7.210e+01
+84 8.869e-02  6.350e-02  7.206e+01
+85 8.013e-02  1.021e-01  7.076e+01
+86 9.414e-02  5.881e-02  7.211e+01
+87 9.192e-02  1.302e-01  7.103e+01
+88 7.915e-02  4.687e-02  7.224e+01
+89 1.199e-01  8.168e-02  7.034e+01
+90 7.178e-02  4.464e-02  7.295e+01
+91 7.538e-02  6.884e-02  6.457e+01
+92 7.141e-02  1.485e-01  6.507e+01
+93 7.042e-02  4.469e-02  6.496e+01
+94 7.596e-02  7.842e-02  6.485e+01
+95 8.230e-02  4.882e-02  6.541e+01
+96 7.390e-02  1.938e-01  6.473e+01
+97 1.035e-01  4.517e-02  6.460e+01
+98 7.223e-02  4.958e-02  6.502e+01
+99 7.390e-02  6.580e-02  6.960e+01
+'fit' took 7007201.26 ms on rank 0
+'error_analysis' took 44048.57 ms on rank 0
+Training finished in 7051.250093221664 sec
+'write_output' took 0.98 ms on rank 0

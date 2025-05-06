@@ -1,0 +1,19 @@
+----- Global weights set: Overriding group weights.
+'process_configs' took 332949.75 ms on rank 0
+49
+part of quadratic A matrix generated on rank 5 in 58.48004221916199 sec
+part of quadratic A matrix generated on rank 6 in 62.028507471084595 sec
+part of quadratic A matrix generated on rank 7 in 62.66946578025818 sec
+part of quadratic A matrix generated on rank 3 in 63.172778367996216 sec
+part of quadratic A matrix generated on rank 4 in 63.38945293426514 sec
+part of quadratic A matrix generated on rank 2 in 63.419307231903076 sec
+part of quadratic A matrix generated on rank 0 in 64.20875310897827 sec
+part of quadratic A matrix generated on rank 1 in 64.3516321182251 sec
+Starting training
+Fitting finished in 178.4368770122528 sec
+Energy training RMSE is 0.006005492798975179
+Force training RMSE is 0.107938450639818
+Energy testing RMSE is 0.006040116117356454
+Force testing RMSE is 0.10881044716001396
+Energy RMSE if tested on the entire dataset is 0.006022829338014317
+Force RMSE if tested on the entire dataset is 0.10837451065812201

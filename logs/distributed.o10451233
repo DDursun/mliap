@@ -1,0 +1,17 @@
+Rank 5 computed local model in 576.813 sec on 375314 samples
+Rank 6 computed local model in 577.976 sec on 375314 samples
+Rank 7 computed local model in 579.078 sec on 375314 samples
+Rank 4 computed local model in 582.604 sec on 375314 samples
+Rank 3 computed local model in 584.318 sec on 375314 samples
+Rank 1 computed local model in 586.285 sec on 375314 samples
+Rank 2 computed local model in 587.099 sec on 375314 samples
+Global training time: 587.100 sec
+Global Test RMSE: 0.13348012603702294
+Energy Training RMSE: 0.009612311043081271
+Force Training RMSE:  0.20068196158679982
+Energy Testing RMSE:  0.00601598967549042
+Force Testing RMSE:   0.1119833602691803
+Energy Training MAE: 0.004599153712463035
+Force Training MAE:  0.08275656591147453
+Energy Testing MAE:  0.00457254033023399
+Force Testing MAE:   0.08114708154713482

@@ -1,0 +1,17 @@
+2025-04-07 05:03:28,224 - distributed.nanny - INFO -         Start Nanny at: 'tcp://172.18.91.222:34089'
+2025-04-07 05:03:28,764 - distributed.worker - INFO -       Start worker at:  tcp://172.18.91.222:46169
+2025-04-07 05:03:28,764 - distributed.worker - INFO -          Listening to:  tcp://172.18.91.222:46169
+2025-04-07 05:03:28,764 - distributed.worker - INFO -           Worker name:             SLURMCluster-0
+2025-04-07 05:03:28,764 - distributed.worker - INFO -          dashboard at:        172.18.91.222:45329
+2025-04-07 05:03:28,764 - distributed.worker - INFO - Waiting to connect to:  tcp://172.18.91.219:41413
+2025-04-07 05:03:28,764 - distributed.worker - INFO - -------------------------------------------------
+2025-04-07 05:03:28,764 - distributed.worker - INFO -               Threads:                          8
+2025-04-07 05:03:28,765 - distributed.worker - INFO -                Memory:                 186.26 GiB
+2025-04-07 05:03:28,765 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-3rj1a7m_
+2025-04-07 05:03:28,765 - distributed.worker - INFO - -------------------------------------------------
+2025-04-07 05:03:29,286 - distributed.worker - INFO - Starting Worker plugin shuffle
+2025-04-07 05:03:29,287 - distributed.worker - INFO -         Registered to:  tcp://172.18.91.219:41413
+2025-04-07 05:03:29,287 - distributed.worker - INFO - -------------------------------------------------
+2025-04-07 05:03:29,288 - distributed.core - INFO - Starting established connection to tcp://172.18.91.219:41413
+2025-04-07 05:13:45,568 - distributed.worker - INFO - Stopping worker at tcp://172.18.91.222:46169. Reason: scheduler-close
+slurmstepd: error: *** JOB 10447381 ON a980 CANCELLED AT 2025-04-07T05:13:45 ***

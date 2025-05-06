@@ -1,0 +1,43 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) xalt/2.10.45
+Total Memory: 270.02 GB
+Available Memory: 250.72 GB
+Client connected: <Client: 'tcp://172.18.91.219:41413' processes=0 threads=0, memory=0 B>
+Dashboard: http://172.18.91.219:8787/status
+Loading merged Zarr arrays with Dask...
+Loading merged selectors from disk...
+(2627198, 1224)
+Computing TSQR factorization...
+Computing Qᵀ * y...
+Solving for regression coefficients...
+/home/x-ddashdamirov/miniconda3/envs/fitsnap/lib/python3.10/site-packages/distributed/client.py:3370: UserWarning: Sending large graph of size 23.98 GiB.
+This may cause some slowdown.
+Consider loading the data with Dask directly
+ or using futures or delayed objects to embed the data into the graph without repetition.
+See also https://docs.dask.org/en/stable/best-practices.html#load-data-with-dask for more information.
+  warnings.warn(
+Computing predictions...
+Model fitting was solved in 237.410 sec.
+/home/x-ddashdamirov/miniconda3/envs/fitsnap/lib/python3.10/site-packages/distributed/client.py:3370: UserWarning: Sending large graph of size 3.43 GiB.
+This may cause some slowdown.
+Consider loading the data with Dask directly
+ or using futures or delayed objects to embed the data into the graph without repetition.
+See also https://docs.dask.org/en/stable/best-practices.html#load-data-with-dask for more information.
+  warnings.warn(
+Global Test RMSE: 0.12845444923132
+/home/x-ddashdamirov/miniconda3/envs/fitsnap/lib/python3.10/site-packages/distributed/client.py:3370: UserWarning: Sending large graph of size 27.45 GiB.
+This may cause some slowdown.
+Consider loading the data with Dask directly
+ or using futures or delayed objects to embed the data into the graph without repetition.
+See also https://docs.dask.org/en/stable/best-practices.html#load-data-with-dask for more information.
+  warnings.warn(
+Energy Training RMSE: 0.0059751265921815355
+Force Training RMSE:  0.1062458979701256
+Energy Testing RMSE:  0.005729673319828709
+Force Testing RMSE:   0.10620549629229722
+Energy Training MAE: 0.0045745073754157855
+Force Training MAE:  0.08144258741017645
+Energy Testing MAE:  0.0044324752994742336
+Force Testing MAE:   0.08188201822483149

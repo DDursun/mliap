@@ -1,0 +1,15 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) xalt/2.10.45
+structures shape:  (19980, 9)
+energies shape:  (19980, 14)
+----- Global weights set: Overriding group weights.
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 1070446 on node b000 exited on signal 9 (Killed).
+--------------------------------------------------------------------------
+slurmstepd: error: Detected 1 oom_kill event in StepId=10532762.batch. Some of the step tasks have been OOM Killed.

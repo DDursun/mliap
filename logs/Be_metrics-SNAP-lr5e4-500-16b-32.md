@@ -1,0 +1,9 @@
+Group  Train/Test   Property     Count       MAE         RMSE   
+*ALL    Train       Energy     17484    6.394e-03   8.372e-03
+*ALL    Train       Force      870452   1.184e-01   1.562e-01
+*ALL     Test       Energy      2496    6.072e-03   7.704e-03
+*ALL     Test       Force      123725   1.168e-01   1.498e-01
+All    Train       Energy     17484    6.394e-03   8.372e-03
+All    Train       Force      870452   1.184e-01   1.562e-01
+All     Test       Energy      2496    6.072e-03   7.704e-03
+All     Test       Force      123725   1.168e-01   1.498e-01

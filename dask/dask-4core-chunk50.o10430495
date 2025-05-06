@@ -1,0 +1,21 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) xalt/2.10.45
+Total Memory: 270.02 GB
+Available Memory: 251.59 GB
+Client connected: <Client: 'tcp://172.18.89.68:41433' processes=0 threads=0, memory=0 B>
+Dashboard: http://172.18.89.68:8787/status
+Loading merged Zarr arrays with Dask...
+Loading merged selectors from disk...
+(2627198, 1224)
+Computing TSQR factorization...
+Computing Qᵀ * y...
+Solving for regression coefficients...
+/home/x-ddashdamirov/miniconda3/envs/fitsnap/lib/python3.10/site-packages/distributed/client.py:3370: UserWarning: Sending large graph of size 23.98 GiB.
+This may cause some slowdown.
+Consider loading the data with Dask directly
+ or using futures or delayed objects to embed the data into the graph without repetition.
+See also https://docs.dask.org/en/stable/best-practices.html#load-data-with-dask for more information.
+  warnings.warn(
+slurmstepd: error: *** JOB 10430495 ON a314 CANCELLED AT 2025-04-05T11:51:27 DUE TO TIME LIMIT ***

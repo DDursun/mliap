@@ -1,0 +1,49 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) xalt/2.10.45
+Total Memory: 270.02 GB
+Available Memory: 250.29 GB
+Client connected: <Client: 'tcp://172.18.90.138:38435' processes=0 threads=0, memory=0 B>
+Dashboard: http://172.18.90.138:8787/status
+Loading merged Zarr arrays with Dask...
+Loading merged selectors from disk...
+(2627198, 1224)
+Computing TSQR factorization...
+/home/x-ddashdamirov/miniconda3/envs/fitsnap/lib/python3.10/site-packages/distributed/client.py:3370: UserWarning: Sending large graph of size 23.96 GiB.
+This may cause some slowdown.
+Consider loading the data with Dask directly
+ or using futures or delayed objects to embed the data into the graph without repetition.
+See also https://docs.dask.org/en/stable/best-practices.html#load-data-with-dask for more information.
+  warnings.warn(
+Computing Qᵀ * y...
+/home/x-ddashdamirov/miniconda3/envs/fitsnap/lib/python3.10/site-packages/distributed/client.py:3370: UserWarning: Sending large graph of size 20.06 MiB.
+This may cause some slowdown.
+Consider loading the data with Dask directly
+ or using futures or delayed objects to embed the data into the graph without repetition.
+See also https://docs.dask.org/en/stable/best-practices.html#load-data-with-dask for more information.
+  warnings.warn(
+Solving for regression coefficients...
+Computing predictions...
+Model fitting was solved in 2817.801 sec.
+/home/x-ddashdamirov/miniconda3/envs/fitsnap/lib/python3.10/site-packages/distributed/client.py:3370: UserWarning: Sending large graph of size 3.43 GiB.
+This may cause some slowdown.
+Consider loading the data with Dask directly
+ or using futures or delayed objects to embed the data into the graph without repetition.
+See also https://docs.dask.org/en/stable/best-practices.html#load-data-with-dask for more information.
+  warnings.warn(
+Global Test RMSE: 0.12858223175921302
+/home/x-ddashdamirov/miniconda3/envs/fitsnap/lib/python3.10/site-packages/distributed/client.py:3370: UserWarning: Sending large graph of size 27.45 GiB.
+This may cause some slowdown.
+Consider loading the data with Dask directly
+ or using futures or delayed objects to embed the data into the graph without repetition.
+See also https://docs.dask.org/en/stable/best-practices.html#load-data-with-dask for more information.
+  warnings.warn(
+Energy Training RMSE: 0.006003890478765758
+Force Training RMSE:  0.10615975485611412
+Energy Testing RMSE:  0.0057700388921048135
+Force Testing RMSE:   0.10613579997160782
+Energy Training MAE: 0.004606592722973428
+Force Training MAE:  0.0813899367660908
+Energy Testing MAE:  0.004468330868076627
+Force Testing MAE:   0.08182878164198298

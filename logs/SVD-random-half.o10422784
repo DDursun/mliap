@@ -1,0 +1,18 @@
+Total Memory: 270.02 GB
+Available Memory: 251.34 GB
+Loading data...
+aw shape: (3002511, 1224)
+bw shape: (3002511,)
+Random feature selection (50%) took 9.416 sec.
+Computing SVD on training data...
+Regression was solved in 264.535 sec.
+Computing predictions on test data...
+Global Test RMSE: 0.13378946508597764
+Energy Training RMSE: 0.006153489632521721
+Force Training RMSE:  0.10981740746339248
+Energy Testing RMSE:  0.006368715053357761
+Force Testing RMSE:   0.10941825905786572
+Energy Training MAE: 0.004741695778056984
+Force Training MAE:  0.0844929220414098
+Energy Testing MAE:  0.004843886054354228
+Force Testing MAE:   0.08394316115524099
