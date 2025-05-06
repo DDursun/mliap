@@ -38,10 +38,10 @@ def main():
     print("Dashboard:", client.dashboard_link)
 
     # File paths for merged arrays and selectors
-    aw_path = "/anvil/projects/x-che190010/dursun/FitSNAP/QuadraticMLIP/examples/fitsnap_qACE/input/aw99.npy"
-    bw_path = "/anvil/projects/x-che190010/dursun/FitSNAP/QuadraticMLIP/examples/fitsnap_qACE/input/bw99.npy"
-    energy_selector_file = "/anvil/projects/x-che190010/dursun/FitSNAP/QuadraticMLIP/examples/fitsnap_qACE/input/energy_selector99.npy"
-    force_selector_file = "/anvil/projects/x-che190010/dursun/FitSNAP/QuadraticMLIP/examples/fitsnap_qACE/input/force_selector99.npy"
+    aw_path = "input/aw99.npy"
+    bw_path = "input/bw99.npy"
+    energy_selector_file = "input/energy_selector99.npy"
+    force_selector_file = "input/force_selector99.npy"
 
     print("Loading merged Zarr arrays with Dask...")
     aw = np.load(aw_path)
