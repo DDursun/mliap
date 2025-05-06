@@ -1,4 +1,6 @@
 This repository contains files regarding the master thesis titled "Regression on interatomic descriptor data: Direct solution strategies for linear regression in CPU and memory-constrained environments
 ".
 
-The repository and instructions for running the codes are in progress. This file will include all dependencies/instructions needed to run the codes.
+The repository and instructions for running the code are in progress. This file will include all dependencies/instructions needed to run the codesa
+
+Not all of the codes will be runnable (until the laboratory releases the final version of QACE descriptors). More to be added soon.
