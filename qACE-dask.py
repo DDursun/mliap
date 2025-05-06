@@ -9,7 +9,6 @@ from dask import config
 from dask_jobqueue import SLURMCluster
 
 def main():
-    # Increase max message size to 5GB (adjust if needed)
     config.set({'distributed.comm.max_message_size': 5000000000})
     
     # Print memory info
@@ -26,7 +25,6 @@ def main():
     memory="200GB",
     walltime="03:00:00",
     job_directives_skip=['--mem'],
-    # Propagate all environment variables
     
 )
 
