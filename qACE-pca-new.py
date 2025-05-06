@@ -12,10 +12,10 @@ def main():
     print("Available Memory: {:.2f} GB".format(mem.available / 1e9))
 
     # File Paths
-    aw_path = "/anvil/projects/x-che190010/dursun/FitSNAP/QuadraticMLIP/examples/fitsnap_qACE/input/aw99.npy"
-    bw_path = "/anvil/projects/x-che190010/dursun/FitSNAP/QuadraticMLIP/examples/fitsnap_qACE/input/bw99.npy"
-    energy_selector_file = "/anvil/projects/x-che190010/dursun/FitSNAP/QuadraticMLIP/examples/fitsnap_qACE/input/energy_selector99.npy"
-    force_selector_file = "/anvil/projects/x-che190010/dursun/FitSNAP/QuadraticMLIP/examples/fitsnap_qACE/input/force_selector99.npy"
+    aw_path = "fitsnap_qACE/input/aw99.npy"
+    bw_path = "fitsnap_qACE/input/bw99.npy"
+    energy_selector_file = "fitsnap_qACE/input/energy_selector99.npy"
+    force_selector_file = "fitsnap_qACE/input/force_selector99.npy"
 
     # Load Data
     aw_np = np.load(aw_path)
